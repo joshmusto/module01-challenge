@@ -5,7 +5,8 @@ First module project about refactoring given code. Meant to practice code struct
 <br/>
 <br/>
 <h2>Screenshot</h2>
-<img src="./Develop/assets/images/screenshot.png" alt="Screenshot of finished assignment.">
+<img src="./assets/images/screenshot.png" alt="Screenshot of finished assignment.">
 <br/>
 <br/>
 <h2>Link</h2>
+Find the live webpage <a href="https://joshmusto.github.io/module01-challenge/">here</a>
